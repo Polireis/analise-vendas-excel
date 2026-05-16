@@ -32,8 +32,8 @@ O projeto foca em responder perguntas críticas como:
   <p><i>Análise de vendas no tempo</i></p>
   
   <img src="Captura de tela 2026-05-03 215933.png" width="800px">
-  <p><i>Categorias, Produtos e Regiões</i></p>
+  <p><i>Categorias e Produtos</i></p>
 
   <img src="Captura de tela 2026-05-03 215942.png" width="800px">
-  <p><i>Segmentação de Clientes VIP</i></p>
+  <p><i> Regiões e Segmentação de Clientes VIP</i></p>
 </div>
